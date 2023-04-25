@@ -51,7 +51,7 @@
 
 ### Work Experience 💼
 
-#### Cavisson Systems Inc. [Cavisson Website](https://www.cavisson.com/)) (Joined on Sept. 20 2021 - Currently working)
+#### Cavisson Systems Inc. ([Cavisson Website](https://www.cavisson.com/)) (Joined on Sept. 20 2021 - Currently working)
 
 - Role: DevOps Engineer
 - Responsibilities: 
@@ -74,6 +74,6 @@
 
 📧 Email: [sunilroul51@gmail.com](mailto:sunilroul51@gmail.com)
 
-🔗 LinkedIn: [Profile](https://www.linkedin.com/in/sunil-kumar-roul-abb467193)
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sunil-kumar-roul-abb467193)
 
 🚀 I'm always eager to learn and grow in my DevOps career. Feel free to reach out to me if you have any questions or would like to collaborate on a project!
