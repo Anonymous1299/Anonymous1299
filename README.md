@@ -9,6 +9,8 @@
 - Configuration Management: Ansible, Chef
 - Containerization: Docker, Kubernetes
 - Monitoring & Logging: Prometheus, Splunk, SignalFx
+- Automation Tool: Selenium, Playwright
+- Scripting Language: Java
 
 ### Projects 💻
 
